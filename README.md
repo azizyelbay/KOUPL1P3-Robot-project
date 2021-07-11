@@ -1,2 +1,2 @@
-# KOUPL1P3-Robot-project
-using object-oriented programming principles
+# Robot-project
+used object-oriented programming principles
